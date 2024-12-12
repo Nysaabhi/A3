@@ -514,10 +514,6 @@ function showTownsOverlay() {
     <div class="towns-content">
       <div class="towns-header">
         <h2>Cities</h2>
-        <button class="=town-btn" onclick="showLocationOverlay(filterByCity)">
-          <i class="fas fa-map-marker-alt"></i> 
-                Select City
-        </button>
         <button class="close-towns" onclick="hideTownsOverlay()">
           <i class="fas fa-long-arrow-alt-left"></i>
         </button>
